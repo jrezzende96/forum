@@ -6,6 +6,13 @@
 
 Esse forum é altamente inspirado [nesse forum](https://github.com/frontendbr/forum).
 
+___
+<p align="center">
+  <a href="https://github.com/SistemasUFSC/forum/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"><img src="https://raw.githubusercontent.com/SistemasUFSC/forum/btn/btn.png" alt="Participe do fórum SistemasUFSC" width="119" /></a>
+</p>
+
+___
+
 ## Propósito
 
 O objetivo é centralizar discussões e compartilhar informação.
