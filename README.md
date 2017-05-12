@@ -15,6 +15,11 @@ ___
 
 ___
 
+## Precisa-se de ajuda
+
+Atualmente precisamos de uma arte para represetar o Forum, sugestoẽs bem vinda na [issue #1](https://github.com/sistemas-ufsc/forum/issues/1)
+
+
 ## Propósito
 
 O objetivo é centralizar discussões e compartilhar informação.
