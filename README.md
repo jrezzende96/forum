@@ -4,6 +4,8 @@
 
 **Disclaimer:** _As opiniões aqui publicadas são de inteira responsabilidade de seus autores e não refletem, necessariamente, o posicionamento da organização._
 
+**Disclaimer 2:** _A organização (do github) e seus repositorios são mantidos de forma colaborativa pelos **alunos** do curso e não possui nenhum outro vinculo com a UFSC._
+
 Esse forum é altamente inspirado [nesse forum](https://github.com/frontendbr/forum).
 
 ___
